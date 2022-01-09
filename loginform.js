@@ -1,0 +1,22 @@
+<script>
+
+function submit_form(){
+alert("logged in!");
+}
+
+function create(){
+window.location="signup.html";
+}
+
+function validate(){
+var pass=document.getElementById("pass").value;
+if(pass =="abcd"){
+alert("correct password");
+}
+else{
+alert("incorrect password");
+}
+}
+
+
+</script>
