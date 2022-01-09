@@ -1,4 +1,3 @@
-<script>
 
 function submit_form(){
 alert("logged in!");
@@ -19,4 +18,4 @@ alert("incorrect password");
 }
 
 
-</script>
+
